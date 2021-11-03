@@ -1,0 +1,51 @@
+body{
+	background-color: #222222;
+}
+h4{
+	font-size: 25px;
+	color: #FFD700;
+
+}
+img{
+	width: 375px;
+	height: 375px;
+}
+
+ul{
+	padding-top: 2px;
+}
+
+li,span{
+	color: #DEDEDE;
+
+	margin: 5px;
+	font: 20px Arial, sans-serif;
+
+	
+}
+
+a{
+	color: #333399;
+	font-size: 25px;
+	font-style: oblique;
+}
+
+
+.div{
+	font-size: 20px;
+}
+
+.Happy{
+	
+	position: relative;
+	left: 10px;
+	margin-top: 20px;
+	
+	
+}
+
+
+}
+.moods{
+left: 500px;
+}
